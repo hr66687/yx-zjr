@@ -56,6 +56,9 @@ public class testUser {
     public void t0(){
         List<User> users = userMapper.selectAll();
         System.out.println(users);
+        System.out.println("GitHub");
+        
+        
     }
 
 
