@@ -57,6 +57,7 @@ public class testUser {
         List<User> users = userMapper.selectAll();
         System.out.println(users);
         System.out.println("GitHub");
+        System.out.println("本地推送到GitHub");
         
         
     }
